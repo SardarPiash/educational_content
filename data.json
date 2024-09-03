@@ -1,0 +1,179 @@
+{
+    "lang": "BN",
+    "headerText": {
+      "text": {
+        "BN": "তথ্য বুঝে সিদ্ধান্ত নিই",
+        "EN": "Let us take decision after understanding information"
+      },
+      "subtext":{
+        "BN": "অজিভ রেখা ব্যবহার করে শ্রেণি বিন্যস্ত উপাত্তের মধ্যক নির্ণয়",
+        "EN": "Finding median by using cumulative frequency curve"
+      },
+      "size": {
+        "BN": 40,
+        "EN": 32
+      }
+    },
+    "chapter": {
+      "text": {
+        "BN": "অভিজ্ঞতা",
+        "EN": "Experience No."
+      },
+      "size": {
+        "BN": 28,
+        "EN": 24
+      }
+    },
+    "chapterNoText": {
+      "text": {
+        "BN": "১০",
+        "EN": "10"
+      },
+      "size": {
+        "BN": 45,
+        "EN": 35
+      }
+    },
+    "question": {
+      "text": {
+        "BN": "অষ্টম শ্রেণির ১০০ জন শিক্ষার্থীর গত একমাসের উপস্থিতির সংগ্রহ করা অবিন্যস্ত উপাত্ত সমূহ নিম্নরূপঃ",
+        "EN": "5"
+      },
+      "size": {
+        "BN": 45,
+        "EN": 35
+      }
+    },
+    "informationText": {
+        "text":{
+            "BN":"তথ্য ",
+            "EN": "Information"
+        },
+        "size":{
+            "BN":35,
+            "EN":35
+        }
+    },
+    "outerLabelHere":
+    {
+       "text":{
+        "BN":"এখানে,",
+        "EN":"here,"
+       },
+       "size":{
+        "BN":35,
+        "EN":35
+       }
+    },
+    "calculationLabel": {
+      "text": {
+        "BN": "টাকা",
+        "EN": "Taka"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    "infoLabel": {
+      "text": {
+        "BN": "\n\n\nI=Pnr\n\nহতে মুনাফার হার \n\nনির্ণয় করি",
+        "EN": "#"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    "autoMode": {
+      "text": {
+        "BN": "শিখো",
+        "EN": "Auto Mode"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    "stepMode": {
+      "text": {
+        "BN": "ধাপে ধাপে",
+        "EN": "Step Mode"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    "PracticeMode": {
+      "text": {
+        "BN": "নিজে নিজে শিখ",
+        "EN": "Practice Mode"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+
+    "headingjson_1": {
+      "text": {
+        "BN": "গাছের দৈর্ঘ্য",
+        "EN": "Height of Trees"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    }
+    ,
+    "headingjson_2": {
+      "text": {
+        "BN": "ট্যালি চিহ্ন",
+        "EN": "#"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    
+    "headingjson_3": {
+      "text": {
+        "BN": "গাছের সংখ্যা(fi)",
+        "EN": "Number of Trees"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    "headingjson_4": {
+      "text": {
+        "BN": "Xi",
+        "EN": "#"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    "headingjson_5": {
+      "text": {
+        "BN": "fc",
+        "EN": "#"
+      },
+      "size": {
+        "BN": 22,
+        "EN": 28
+      }
+    },
+    
+      "equation":{
+      "text_1": {
+        "BN": "শ্রেণি বিন্যস্ত উপাত্তের মধ্যকঃ",
+        "EN": "#"
+      }
+      }
+    
+}
